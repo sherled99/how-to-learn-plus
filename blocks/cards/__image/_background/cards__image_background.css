@@ -1,0 +1,6 @@
+.cards__image_background {
+    width: 160px;
+    height: 160px;
+    background-size: cover;
+    border-radius: 50%;
+}

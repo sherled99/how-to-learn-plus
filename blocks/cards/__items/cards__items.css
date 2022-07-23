@@ -1,0 +1,9 @@
+.cards__items {
+    width: 240px;
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
+.cards__items:nth-child(3) {
+    padding-right: 0;
+}
