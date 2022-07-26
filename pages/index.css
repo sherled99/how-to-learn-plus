@@ -2,8 +2,9 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/margin-bottom-l/margin-bottom-l.css);
-@import url(../blocks/margin-bottom-m/margin-bottom-m.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/description/description.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/kaufman/kaufman.css);
@@ -25,7 +26,7 @@
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/_padding/kaufman_padding_updown.css);
+@import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/resources/__link/resources__link.css);
