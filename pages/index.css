@@ -2,8 +2,8 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/section/_margin-bottom/section_margin-bottom_l.css);
-@import url(../blocks/section/_margin-bottom/section_margin-bottom_m.css);
+@import url(../blocks/margin-bottom-l/margin-bottom-l.css);
+@import url(../blocks/margin-bottom-m/margin-bottom-m.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/kaufman/kaufman.css);
