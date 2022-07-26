@@ -4,6 +4,7 @@
   color: #fff;
   padding: 60px 0 40px;
   min-height: 350px;
+  box-sizing: border-box;
   display: flex;
   margin: auto;
   justify-content: center;
